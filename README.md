@@ -9,7 +9,7 @@ any web-browser
 
 ### Installing
 
-download the movie-project file
+download contents of the movie-project repository 
 
 
 ## Running
