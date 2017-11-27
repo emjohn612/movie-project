@@ -9,7 +9,7 @@ any web-browser
 
 ### Installing
 
-download contents of the movie-project repository 
+download contents of the movie-project repository
 
 
 ## Running
@@ -26,5 +26,4 @@ python
 
 ## Authors
 
-Eric Johnston - Udacity student
-The Udacity Team
+Eric Johnston(A Udacity student) and The Udacity Team
