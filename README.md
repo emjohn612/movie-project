@@ -1,7 +1,30 @@
 # movie-project
-Movie trailer website
- 
-List of different movies
 
-On mouse hover, displays the movie's description.
-On mouse click, opens the movie's trailer on the same screen. 
+A list of various movies and their descriptions. On mouse click, a modal of the movie's trailer opens.
+
+
+### What is needed
+
+any web-browser
+
+### Installing
+
+download the movie-project file
+
+
+## Running
+
+open the file fresh_tomatoes.html in your web-browser
+
+
+## Built With
+
+html
+css
+javascript
+python
+
+## Authors
+
+Eric Johnston - Udacity student
+The Udacity Team
