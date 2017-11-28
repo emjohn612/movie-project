@@ -1,23 +1,33 @@
 # movie-project
 
 A list of various movies and their descriptions. On mouse click, a modal of the movie's trailer opens.
-
+On mouse hover, displays the movie's description.
+On mouse click, opens a modal of the movie's trailer from youtube.
 
 ### What is needed
 
-python installed on computer
+python v2. or higher installed on computer
 any web-browser
 
 ### Installing
 
-download contents of the movie-project repository
+download/clone contents of the movie-project repository from github
 
 
 ## Running
 
-1. Open the file fresh_tomatoes.html in your web-browser
-2. On mouse hover, displays the movie's description
-3. On mouse click, opens a modal of the movie's trailer from youtube
+  Opening from html file
+
+    - Open the file fresh_tomatoes.html in your web-browser
+
+  Opening using terminal
+
+    - run using...  python entertainment_center.py
+
+  Opening using IDLE
+
+    - Open the entertainment_center.py file in a new window
+    - Run module
 
 ## Built With
 
