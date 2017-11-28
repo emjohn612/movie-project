@@ -9,7 +9,7 @@ import fresh_tomatoes
 the_road = media.Movie("The Road",
                        "In a dangerous post-apocalyptic world,\
                         an ailing father defends his son as they slowly\
-                        travel to the sea."
+                        travel to the sea.",
                        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwNzk4NTU3NDReQTJeQWpwZ15BbWU3MDg3OTEyODI@._V1_UY268_CR0,0,182,268_AL_.jpg",  # noqa
                        "https://www.youtube.com/watch?v=FsFFwaRxoDw")
 
